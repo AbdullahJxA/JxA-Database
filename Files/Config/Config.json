@@ -1,0 +1,11 @@
+{
+    "Webhook": {
+        "URL": "https://discord.com/api/webhooks/1340710590733090856/xTslqyctPLvxLCfgiuMN4NUlU_HEJYfiPse-szhNM3kUlPZxXbQeIq7Y8u7slhYdCWk6"
+    },
+    "Database": {
+        "Host": "localhost",
+        "User": "root",
+        "Password": "",
+        "Name": "vrpfx"
+    }
+}
